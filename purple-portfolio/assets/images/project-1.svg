@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg1)"/>
+  <text x="200" y="140" text-anchor="middle" fill="#FFDB70" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Synthetic Medical Records</text>
+  <text x="200" y="165" text-anchor="middle" fill="#888" font-family="Arial, sans-serif" font-size="14">GANs • PyTorch • Healthcare</text>
+  <circle cx="200" cy="220" r="30" stroke="#FFDB70" stroke-width="2" fill="none"/>
+  <text x="200" y="227" text-anchor="middle" fill="#FFDB70" font-family="Arial, sans-serif" font-size="12">ML</text>
+</svg>
